@@ -1,0 +1,8 @@
+{
+    "name": "bbmc-exampleplugin",
+    "api": "0.1.0",
+    "description": "ExamplePlugin",
+    "version": "1.0.0",
+    "author": "BlueBirdMC",
+    "main": "src/bbmc-test/Main"
+}
